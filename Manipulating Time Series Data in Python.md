@@ -179,7 +179,7 @@ plt.show()
 ```
 
 
-![png](output_11_0.png)
+![output_11_0](https://user-images.githubusercontent.com/49030506/91069563-93f7c380-e603-11ea-8289-97ac7ebdd46e.png)
 
 
 
@@ -340,7 +340,7 @@ plt.show()
 ```
 
 
-![png](output_23_0.png)
+![output_23_0](https://user-images.githubusercontent.com/49030506/91069564-94905a00-e603-11ea-89a6-6c1d787d1894.png)
 
 
 
@@ -473,7 +473,7 @@ plt.show()
 ```
 
 
-![png](output_31_0.png)
+![output_31_0](https://user-images.githubusercontent.com/49030506/91069568-9528f080-e603-11ea-87af-d23061102d7b.png)
 
 
 
@@ -490,7 +490,7 @@ plt.show()
 ```
 
 
-![png](output_33_0.png)
+![output_33_0](https://user-images.githubusercontent.com/49030506/91069569-9528f080-e603-11ea-9918-b5969bd061ff.png)
 
 
 
@@ -527,7 +527,7 @@ plt.show()
 ```
 
 
-![png](output_37_0.png)
+![output_37_0](https://user-images.githubusercontent.com/49030506/91069571-95c18700-e603-11ea-9610-15d03d252787.png)
 
 
 
@@ -611,7 +611,7 @@ plt.show()
 ```
 
 
-![png](output_45_0.png)
+![output_45_0](https://user-images.githubusercontent.com/49030506/91069573-95c18700-e603-11ea-8639-7fe8d0993636.png)
 
 
 
@@ -668,7 +668,7 @@ plt.show()
 
 
 
-![png](output_50_1.png)
+![output_50_1](https://user-images.githubusercontent.com/49030506/91069574-95c18700-e603-11ea-803b-932b6e375f76.png)
 
 
 
@@ -725,7 +725,7 @@ plt.show()
 
 
 
-![png](output_54_1.png)
+![output_54_1](https://user-images.githubusercontent.com/49030506/91069575-965a1d80-e603-11ea-98d3-6a914420027f.png)
 
 
 
@@ -768,7 +768,7 @@ plt.show()
 ```
 
 
-![png](output_58_0.png)
+![output_58_0](https://user-images.githubusercontent.com/49030506/91069576-965a1d80-e603-11ea-8995-86bc8edbd64a.png)
 
 
 
@@ -944,7 +944,7 @@ plt.show()
 
 
 
-![png](output_68_1.png)
+![output_68_1](https://user-images.githubusercontent.com/49030506/91069577-965a1d80-e603-11ea-95df-192c28200046.png)
 
 
 
@@ -998,7 +998,7 @@ plt.show()
 
 
 
-![png](output_73_1.png)
+![output_73_1](https://user-images.githubusercontent.com/49030506/91069578-96f2b400-e603-11ea-8816-0e9fd600d331.png)
 
 
 
@@ -1050,7 +1050,7 @@ plt.show()
 
 
 
-![png](output_77_1.png)
+![output_77_1](https://user-images.githubusercontent.com/49030506/91069580-96f2b400-e603-11ea-9406-9b6652054f85.png)
 
 
 ###### Comparing weekly, monthly and annual ozone trends for NYC & LA
@@ -1094,15 +1094,11 @@ plt.show()
 
 
 
-![png](output_80_1.png)
+![output_80_1](https://user-images.githubusercontent.com/49030506/91069581-96f2b400-e603-11ea-8484-994580349961.png)
 
+![output_80_2](https://user-images.githubusercontent.com/49030506/91069582-96f2b400-e603-11ea-8364-549e4e5dd3f4.png)
 
-
-![png](output_80_2.png)
-
-
-
-![png](output_80_3.png)
+![output_80_3](https://user-images.githubusercontent.com/49030506/91069583-96f2b400-e603-11ea-9096-72d23e71c15a.png)
 
 
 ###### Comparing monthly average stock prices for Facebook and Google
@@ -1137,7 +1133,7 @@ plt.show()
 
 
 
-![png](output_83_1.png)
+![output_83_1](https://user-images.githubusercontent.com/49030506/91069585-978b4a80-e603-11ea-8da1-0e5e9472f36e.png)
 
 
 ###### Comparing quarterly GDP growth rate and stock returns
@@ -1193,7 +1189,7 @@ plt.show()
 
 
 
-![png](output_86_1.png)
+![output_86_1](https://user-images.githubusercontent.com/49030506/91069586-978b4a80-e603-11ea-9140-e4531c6b5778.png)
 
 
 ###### Visualizing monthly mean, median and standard deviation of S&P500 returns
@@ -1234,7 +1230,7 @@ plt.show()
 
 
 
-![png](output_89_1.png)
+![output_89_1](https://user-images.githubusercontent.com/49030506/91069588-978b4a80-e603-11ea-8409-03772ce9a62d.png)
 
 
 ###### Window Functions: Rolling & Expanding Metrics – chapter 3 
@@ -1276,7 +1272,7 @@ plt.show()
 
 
 
-![png](output_93_1.png)
+![output_93_1](https://user-images.githubusercontent.com/49030506/91069589-978b4a80-e603-11ea-901c-6b5f54ac85b9.png)
 
 
 The different rolling windows help us see any long term trends that are hard to spot in the original data?
@@ -1312,7 +1308,7 @@ plt.show()
 ```
 
 
-![png](output_97_0.png)
+![output_97_0](https://user-images.githubusercontent.com/49030506/91069590-9823e100-e603-11ea-99ff-beff51785713.png)
 
 
 How does adding the standard deviation help you understand what's happening in the orignal series?
@@ -1363,7 +1359,7 @@ plt.show()
 
 
 
-![png](output_100_1.png)
+![output_100_1](https://user-images.githubusercontent.com/49030506/91069592-9823e100-e603-11ea-97f0-d6550db601f9.png)
 
 
 The rolling quantiles help show the volatility of the series.
@@ -1681,7 +1677,7 @@ plt.show()
 
 
 
-![png](output_115_1.png)
+![output_115_1](https://user-images.githubusercontent.com/49030506/91069594-9823e100-e603-11ea-8ee5-f0f0df06076f.png)
 
 
 Now let's take a look at the rolling annual returns on this investment.
@@ -1746,7 +1742,7 @@ plt.show()
 
 
 
-![png](output_118_2.png)
+![output_118_2](https://user-images.githubusercontent.com/49030506/91069595-9823e100-e603-11ea-9ec0-c8178f2aa579.png)
 
 
 Do you think it's better to invest in Google or Apple?
@@ -1781,7 +1777,7 @@ plt.show()
 ```
 
 
-![png](output_121_0.png)
+![output_121_0](https://user-images.githubusercontent.com/49030506/91069597-9823e100-e603-11ea-8906-15edb115f830.png)
 
 
 Are you ready to get started on the next part of your random walk?
@@ -1927,7 +1923,7 @@ plt.show()
 ```
 
 
-![png](output_130_0.png)
+![output_130_0](https://user-images.githubusercontent.com/49030506/91069598-98bc7780-e603-11ea-85bc-e56cb5a278a9.png)
 
 
 Getting ready to finish up this random walk!
@@ -1963,7 +1959,7 @@ plt.show()
 ```
 
 
-![png](output_134_0.png)
+![output_134_0](https://user-images.githubusercontent.com/49030506/91069600-98bc7780-e603-11ea-96f9-d87fdcb0b0cc.png)
 
 
 ###### Annual return correlations among several stocks
@@ -2027,7 +2023,7 @@ plt.show()
 
 
 
-![png](output_138_1.png)
+![output_138_1](https://user-images.githubusercontent.com/49030506/91069601-98bc7780-e603-11ea-91e0-4e2728a201da.png)
 
 
 Heatmaps are a great way to visualize correlation matrices.
@@ -2357,7 +2353,7 @@ plt.show()
 
 
 
-![png](output_151_1.png)
+![output_151_1](https://user-images.githubusercontent.com/49030506/91069602-98bc7780-e603-11ea-8632-c17ef8e50bbc.png)
 
 
 ###### Calculating number of shares outstanding
@@ -2511,7 +2507,7 @@ plt.show()
 
 
 
-![png](output_157_1.png)
+![output_157_1](https://user-images.githubusercontent.com/49030506/91069603-99550e00-e603-11ea-9db0-0f9861d4785b.png)
 
 
 
@@ -2716,7 +2712,7 @@ plt.show()
 
 
 
-![png](output_163_1.png)
+![output_163_1](https://user-images.githubusercontent.com/49030506/91069605-99550e00-e603-11ea-9288-e6e93dfb3397.png)
 
 
 Now we have an index to work with!
@@ -2767,7 +2763,7 @@ plt.show()
 
 
 
-![png](output_166_1.png)
+![output_166_1](https://user-images.githubusercontent.com/49030506/91069606-99550e00-e603-11ea-9fc4-9db11921b0f1.png)
 
 
 The next step is to take a look at how your index stacks up against a benchmark!
@@ -2801,7 +2797,7 @@ plt.show()
 
 
 
-![png](output_169_1.png)
+![output_169_1](https://user-images.githubusercontent.com/49030506/91069608-99550e00-e603-11ea-93a0-66e503d23e72.png)
 
 
 How do they compare?
@@ -2853,7 +2849,7 @@ plt.show()
 
 
 
-![png](output_172_2.png)
+![output_172_2](https://user-images.githubusercontent.com/49030506/91069609-99eda480-e603-11ea-80cf-4929cb503af8.png)
 
 
 How do the returns of your index compare to the Dow Jones?
@@ -2934,7 +2930,7 @@ plt.show()
 
 
 
-![png](output_175_1.png)
+![output_175_1](https://user-images.githubusercontent.com/49030506/91069611-99eda480-e603-11ea-9157-03b19bb90066.png)
 
 
 ###### Save your analysis to multiple excel worksheets
